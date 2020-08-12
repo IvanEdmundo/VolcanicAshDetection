@@ -1,0 +1,20 @@
+{
+    "root": "E:\\CNN\\prog_labelInteger8",
+    "program": "E:/CNN/prog_labelInteger8/SegNet-Basic.py",
+    "startedAt": "2020-04-04T03:52:12.894277",
+    "host": "LAPTOP-EFDNOR78",
+    "username": "ivan_",
+    "executable": "C:\\Users\\ivan_\\AppData\\Local\\Continuum\\anaconda3\\envs\\gpu\\pythonw.exe",
+    "os": "Windows-10-10.0.17134-SP0",
+    "python": "3.6.9",
+    "gpu": "GeForce GTX 1060",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "args": [],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "copper-breeze-1",
+    "project": "mlp",
+    "heartbeatAt": "2020-04-04T04:09:48.528976"
+}
